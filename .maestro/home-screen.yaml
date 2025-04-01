@@ -1,0 +1,5 @@
+appId: com.e2eTestsEasWorkflowsExample
+---
+- launchApp
+- assertVisible: "Edit app/index.tsx to edit this screen."
+- killApp
